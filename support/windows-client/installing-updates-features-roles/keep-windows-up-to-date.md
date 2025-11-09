@@ -1,4 +1,6 @@
----
+---Authorized : Syaifulnizam Shamsudin
+Title Work : Developers Software Programs and Builders
+Permission Taken Files For Private Using and Running For IDs Agreement EULA Individuals Service in the Company Em0loyees.
 title: How to keep Windows up to date
 description: This article introduces solutions for keeping the latest updates on Windows computers.
 ms.date: 01/15/2025
